@@ -1,15 +1,18 @@
 
-deployed website : https://sldveedreplica.netlify.app/
+Deployed Website: https://sldveedreplica.netlify.app/
 
-screenshots :
+Screenshots :
 
+upload images/ video files by drag and drop :
 
+![Screenshot 2025-03-28 140900](https://github.com/user-attachments/assets/cc3955ab-69a4-4a74-8c18-5810fae9fe6c)
 
+Play / Pause Video :
 
+![Screenshot 2025-03-28 141012](https://github.com/user-attachments/assets/774a1907-4b64-473e-910e-65a88fb688ed)
 
-
-
-
+Resize the position and Change the Timer of the Video / image and Play / Pause :
+![Screenshot 2025-03-28 141237](https://github.com/user-attachments/assets/3406bfa9-c19b-4c60-9f16-227690046906)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
